@@ -1,0 +1,12 @@
+body{
+    background: cornsilk;
+}
+
+
+
+button {
+    width: 100px;
+    margin-top: 2rem;
+    align-items: center;
+    background:green;
+}
